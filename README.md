@@ -1,2 +1,3 @@
-# odin-recipes
-recipe page project for the odin project
+This project is meant to represent a basic mastery of building a basic website with HTML. I've used an extensive amount of HTML before so I hope to create a clean project.
+
+Originally I'd done this on another account name earlier in the year, but for security reasons I deleted that account. I'll be uploading all of my finished projects to this account to have them accessible to The Odin Project, though most of the Foundations work will look like it was done in a single day (I assure you, it was not lol).
